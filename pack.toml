@@ -1,0 +1,13 @@
+name = "Micro Create"
+author = "RedBugGamer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d2e965a9cfa8eb0781fbb13764d754aef46de855f718186171a0bb76efe8c01b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.133"

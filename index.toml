@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "623d74dea2f4a5c1f8173520691ff06533ac4e4f1651ef1790a8741d8181793d"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "7f22959445f6830022e0dd5e71fb60298648cbc208977061f332f39f468f6fd9"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "beb4601bf23db449e459a4748aa9e08367575ae4b3c653ea3e6f0a6d142365e5"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "90d5ebd43ae612e60dbfaad5232d5fdd905ac8af40bba5c420253d7d55043c1e"
+metafile = true
+
+[[files]]
+file = "mods/rocknroller.pw.toml"
+hash = "74cfc6d86499f88e2ec31f2279515e405bbbe07b70fa8797a060099081e405ee"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "a122640a4332366ca18ba14457dab9bba90e850c669e8e41270917ad0585756a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "a9a1788e852f7d172c941fcd1c3e310e96613114505c928766973cc13732cb0d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "591ba1d6c0b8f898d0d6f57dc2e7ca2c1a2719978b07e1861683d0361a79660f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a542173b96e9e17a6f126aaba189dda0b69430b4eb47dc4a2b78b72e036e8cd6"
+metafile = true
